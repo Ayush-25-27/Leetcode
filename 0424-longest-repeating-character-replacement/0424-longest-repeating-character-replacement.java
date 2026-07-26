@@ -11,11 +11,13 @@ class Solution {
             f.put(c, f.getOrDefault(c,0)+1);
             int len = high - low + 1;
             maxfreq = Math.max(maxfreq, f.get(c));
-
-            if(len - maxfreq > k){
+            int diff = len - maxfreq;
+            if(diff > k){
             char leftchar = s.charAt(low);
             f.put(leftchar, f.get(leftchar)-1);
             low++;
+            maxfreq = Math.max(maxfreq,f.get(leftchar));
+            diff = len - maxfreq;
             }
           len = high - low +1 ;
           res = Math.max(res,len);
