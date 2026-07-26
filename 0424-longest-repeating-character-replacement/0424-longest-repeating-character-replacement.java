@@ -16,7 +16,6 @@ class Solution {
             char leftchar = s.charAt(low);
             f.put(leftchar, f.get(leftchar)-1);
             low++;
-            maxfreq = Math.max(maxfreq,f.get(leftchar));
             diff = len - maxfreq;
             }
           len = high - low +1 ;
