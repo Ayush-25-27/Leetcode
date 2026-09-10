@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ayush-25-27/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ayush-25-27/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ayush-25-27/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Ayush-25-27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ayush-25-27/Leetcode/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ayush-25-27/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Divide and Conquer
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush-25-27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ayush-25-27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Ayush-25-27/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush-25-27/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayush-25-27/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-25-27/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-25-27/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
