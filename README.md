@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ayush-25-27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Ayush-25-27/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Ayush-25-27/Leetcode/tree/master/0202-happy-number) |
+| [0492-construct-the-rectangle](https://github.com/Ayush-25-27/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ayush-25-27/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush-25-27/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
