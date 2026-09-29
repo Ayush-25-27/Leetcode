@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ayush-25-27/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-25-27/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ayush-25-27/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayush-25-27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ayush-25-27/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Ayush-25-27/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Ayush-25-27/Leetcode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Ayush-25-27/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Ayush-25-27/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush-25-27/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayush-25-27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ayush-25-27/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ayush-25-27/Leetcode/tree/master/0231-power-of-two) |
 ## Ternary Search
 |  |
 | ------- |
